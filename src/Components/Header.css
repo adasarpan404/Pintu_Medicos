@@ -1,0 +1,73 @@
+.header {
+    background-color: #ef4281;
+    height: 115px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+ 
+}
+
+.search_icon{
+    margin-left: 15px;
+    
+}
+.search_bar{
+    margin-top: 35px;
+   width: fit-content;
+    border-width: 5px;
+    border-color: rgb(116, 112, 112);
+    background-color: white;
+    height: fit-content;
+    border-radius: 5px;
+    
+}
+.search_medicine{
+    text-decoration: none;
+    border: none;
+    width: 650px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+    
+}
+.cart{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    color: white;
+    
+}
+.cart_icon{
+    height: 27px;
+    width: 27px;
+    margin-right: 5px;
+}
+
+
+.profile{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+    color: white;
+    margin-right: 30px;
+}
+
+
+.profile_icon{
+    height: 27px;
+    width: 27px;
+    margin-right: 5px;
+}
+.cart_txt, .profile_txt{
+    text-decoration: none;
+    align-self: center;
+}
+.increase_size{
+    height: 50px;
+    width: 50px;
+   margin-left: 666px;
+}

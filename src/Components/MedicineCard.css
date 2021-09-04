@@ -1,0 +1,47 @@
+.medicineCard{
+  
+    width: 300px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+}
+
+
+.medicine_image{
+    height: 155px;
+    width: 155px;
+   
+}
+.image_container{
+    display: flex;
+    justify-content: center;
+}
+.medecine_text_container{
+    padding: 10px;
+    font-size: 13px;
+
+}
+
+.price{
+    color:#EF4281 ;
+    font-size: 20px;
+}
+.name_txt{
+    margin-bottom: 5px;
+    font-weight: bold;
+    
+}
+.addToCart_btn{
+    background-color: #32AEB1;
+    width: 84%;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    border: none;
+   align-self: center;
+}

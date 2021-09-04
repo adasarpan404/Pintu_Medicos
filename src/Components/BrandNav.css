@@ -1,0 +1,26 @@
+.brandNav{
+    background-color: #8A8F95;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.brand_name{
+    color: white;
+    padding-inline-end: 40px;
+   
+}
+.brand_img{
+    padding-left: 30px;
+    margin-right: 30px;
+}
+
+.brandNavCart{
+    background-color: #8A8F95;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
