@@ -1,6 +1,6 @@
  const brands = [
 {
-    name: 'Jayant'
+    name: 'Abbott'
 },
 {
     name: 'Himalaya'
