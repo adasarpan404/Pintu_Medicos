@@ -69,5 +69,15 @@
 .increase_size{
     height: 50px;
     width: 50px;
-   margin-left: 666px;
+   
+}
+.move_left{
+    margin-left: 666px;
+}
+
+.white_line{
+    border-bottom-width: 2px;
+    border-bottom-color: white;
+    border-bottom-style: solid ;
+    padding: 1px;
 }
